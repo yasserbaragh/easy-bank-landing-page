@@ -6,8 +6,8 @@ this challenge test your capabilities to work with css layouts and javascript
 <h1>Overview</h1>
 
 <ul>Screenshots
-  <li><a href="![desktop-design](https://user-images.githubusercontent.com/74419748/126067697-1d74c477-d5aa-459d-87b8-2eefc6e13aaf.jpg)">Desktop preview</a></li>
-  <li><a href="![mobile-design](https://user-images.githubusercontent.com/74419748/126067734-acd89b21-cb84-4865-bc0e-ecef1848775d.jpg)">Mobile preview</a></li>
+  <li>"![desktop-design](https://user-images.githubusercontent.com/74419748/126067697-1d74c477-d5aa-459d-87b8-2eefc6e13aaf.jpg)"</li>
+  <li>"![mobile-design](https://user-images.githubusercontent.com/74419748/126067734-acd89b21-cb84-4865-bc0e-ecef1848775d.jpg)"</li>
 </ul>
 
 
