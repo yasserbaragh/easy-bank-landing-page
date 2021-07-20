@@ -34,6 +34,8 @@ header {
   z-index: 10;
   background-color: white;
   text-align: left;
+  position: relative;
+  z-index: 10;
 }
 
 header .button {
@@ -189,7 +191,7 @@ header .button {
   background-position: 0px 80px;
   position: relative;
   bottom: 115px;
-  z-index: -1;
+  z-index: 1;
 }
 
 .home__body h1 {
@@ -335,6 +337,9 @@ footer span {
 }
 
 @media (min-width: 992px) {
+  main {
+    overflow-x: hidden;
+  }
   header {
     height: 85px;
     padding-top: 24px;
@@ -399,7 +404,6 @@ footer span {
   }
   #home {
     height: 600px;
-    overflow: hidden;
   }
   .img {
     background: url(../images/bg-intro-desktop.svg) no-repeat;
@@ -409,7 +413,7 @@ footer span {
     bottom: -150px;
     right: -190px;
     width: 74%;
-    z-index: -1;
+    z-index: 1;
   }
   .home__body {
     width: 40%;
